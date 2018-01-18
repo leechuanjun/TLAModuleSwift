@@ -1,5 +1,5 @@
 # Uncomment this line to define a global platform for your project
-# platform :ios, '9.0'
+platform :ios, '8.0'
 
 # 私有源地址
 source 'https://github.com/leechuanjun/TLPods.git'

@@ -22,7 +22,7 @@ class Target_TLAModule: NSObject {
         
         callback("success")
         
-        let aViewController = ViewController()
+        let aViewController = TLAModuleViewController()
         return aViewController
     }
     
