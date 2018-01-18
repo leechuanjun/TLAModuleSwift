@@ -1,2 +1,1 @@
-# TLAModuleSwift
-Swift版本的库
+pod "TLAModuleSwift"
